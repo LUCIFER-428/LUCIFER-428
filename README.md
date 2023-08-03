@@ -3,6 +3,8 @@
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/65de73171b032a2f5ecaaa4393f8d488cf9c85563947105f54bc7941a10f0f0b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966">
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F70000&background=000000&width=550&height=90&lines=YES+I'M+LUCIFER;THIS+IS+DEVIL+BRAND;I+CAN+SEE+YOU+-+BETA" alt="Typing SVG" /></a>
+
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/e9ed829c3a0e1f4dea59d258e52f863582825fb693835ce81b2e1720fef3752b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4920414d2025323042414e474c414445534849202d2050524f4752414d4d45522d677265656e3f636f6c6f72413d25323366663030303026636f6c6f72423d253233303137653430267374796c653d666c61742d737175617265">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=im-kira-69&label=Profile%20views&color=0e75b6&style=flat" alt="im-kira-69" /> </p>
